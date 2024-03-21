@@ -1,0 +1,26 @@
+.header {
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.wrapper {
+  text-align: center;
+  background-color: rgb(18, 77, 126);
+  color: white;
+}
+
+.card-body {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
